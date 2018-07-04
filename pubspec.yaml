@@ -1,0 +1,14 @@
+name: lb_logger
+description: Redis-based logger for Dart, named in honour of Lars Bak.
+version: 0.0.1
+homepage: github.com/evanx/lb_logger
+author: github.com/evanx
+
+environment:
+  sdk: '>=1.20.1 <2.0.0'
+
+dependencies:
+  redis_client: any
+
+dev_dependencies:
+  test: ^0.12.0
