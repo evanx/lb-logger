@@ -1,19 +1,8 @@
 # lb_logger
 
-A library for Dart developers.
-
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
-
 ## Usage
 
-A simple usage example:
-
-    import 'package:lb_logger/lb_logger.dart';
-
-    main() {
-      var awesome = new Awesome();
-    }
+See `example/lb_logger_test.dart`
 
 ## Features and bugs
 
