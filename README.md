@@ -1,5 +1,7 @@
 # lb_logger
 
+Redis-based logger for Dart, named in honour of Lars Bak.
+
 ## Usage
 
 See `example/lb_logger_test.dart`
@@ -8,4 +10,4 @@ See `example/lb_logger_test.dart`
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: http://example.com/issues/replaceme
+[tracker]: https://github.com/evanx/lb_logger/issues
