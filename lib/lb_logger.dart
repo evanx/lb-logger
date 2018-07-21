@@ -1,3 +1,5 @@
 library lb_logger;
 
-export 'src/lb_logger_base.dart';
+export 'src/RedisClient.dart';
+export 'src/RedisTransaction.dart';
+export 'src/RedisLogger.dart';
